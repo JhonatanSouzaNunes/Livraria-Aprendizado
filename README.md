@@ -14,14 +14,7 @@ Salvar e carregar dados em um arquivo.
 
 # <h3>Como utilizar</h3>
 
-Para utilizar a aplicação, basta clonar este repositório e executar a classe Main no pacote br.com.aprendizado.livraria. A partir daí, o usuário pode escolher as opções disponíveis no menu principal.
-
-# <h4>Tecnologias utilizadas</h4>
-
-Java 11  
-Eclipse IDE  
-JUnit 5  
-Apache Commons CSV  
+Para utilizar a aplicação, basta clonar este repositório e executar a classe **Main** no pacote **Alivraria.** A partir daí, o usuário pode escolher as opções disponíveis no menu principal.
 
 # <h5>Autor</h5>  
 Este projeto foi desenvolvido por Jhonatan Souza Nunes como parte do aprendizado de programação em Java.
