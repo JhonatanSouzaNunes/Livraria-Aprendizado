@@ -1,10 +1,9 @@
 # <h1>Livraria Aprendizado</h1>
 
-Este projeto foi desenvolvido como parte do aprendizado de programação em Java. Consiste em uma aplicação de console para gerenciar o cadastro de livros e empréstimos em uma livraria.
+Este projeto foi desenvolvido como parte do aprendizado de programação em Java. Consiste em uma aplicação de console para gerenciar o cadastro de livros e empréstimos em uma livraria.  
+# <h1>Funcionalidades</h1>  
 
-# <h2>Funcionalidades</h2>
-
-A aplicação permite ao usuário:
+A aplicação permite ao usuário:  
 
 Cadastrar um novo livro, informando título, autor, editora e código de identificação.  
 Consultar a lista de livros cadastrados.  
