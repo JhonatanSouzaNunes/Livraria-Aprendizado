@@ -1,4 +1,4 @@
-**#Livraria Aprendizado**
+# <h1>Livraria Aprendizado</h1>
 Este projeto foi desenvolvido como parte do aprendizado de programação em Java. Consiste em uma aplicação de console para gerenciar o cadastro de livros e empréstimos em uma livraria.
 
 Funcionalidades
